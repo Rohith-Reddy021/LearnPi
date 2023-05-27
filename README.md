@@ -25,3 +25,7 @@ An open-source Android application that helps PI enthusiasts memorize the digits
 e
 ![WhatsApp Image 2023-05-27 at 12 16 33 AM (2)](https://github.com/Rohith-Reddy021/LearnPi/assets/133708343/0ca8e356-7cc3-4d06-ae51-10c2d794d051)
 
+## The repository is ordered as follows:
+
+1. [Source Code for the Application (.java)](https://github.com/Rohith-Reddy021/LearnPi/blob/main/MainActivity.java)
+2. [Layout of the Application (.xml)](https://github.com/Rohith-Reddy021/LearnPi/blob/main/activity_main.xml)
