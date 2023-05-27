@@ -19,7 +19,7 @@ An open-source Android application that helps PI enthusiasts memorize the digits
 
 ![WhatsApp Image 2023-05-27 at 12 16 33 AM](https://github.com/Rohith-Reddy021/LearnPi/assets/133708343/365ed974-a079-4dca-8356-5b3154dcb2fa)
 
-## Challenge Pag
+## Challenge Page
 
 ![WhatsApp Image 2023-05-27 at 12 16 33 AM (1)](https://github.com/Rohith-Reddy021/LearnPi/assets/133708343/b264935c-24b0-432e-8d5a-2b87e2d56e05)
 e
