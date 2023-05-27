@@ -28,4 +28,4 @@ e
 ## The repository is ordered as follows:
 
 1. [Source Code for the Application (.java)](https://github.com/Rohith-Reddy021/LearnPi/blob/main/src/MainActivity.java)
-2. [Layout of the Application (.xml)](https://github.com/Rohith-Reddy021/LearnPi/blob/main/activity_main.xml)
+2. [Layout of the Application (.xml)](https://github.com/Rohith-Reddy021/LearnPi/blob/main/xml/activity_main.xml)
