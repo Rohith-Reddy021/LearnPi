@@ -1,7 +1,7 @@
 # LearnPi
 An open-source Android application that helps PI enthusiasts memorize the digits of PI.
 This repository contains the source code for my Android Application: Memo'PI'ze. It has all the files neccesary for the application to be designed and run.
-Download the app here: LearnPI(https://play.google.com/store/apps/details?id=com.Rohith.android.learnpi)
+Download the app here: [LearnPI](https://play.google.com/store/apps/details?id=com.Rohith.android.learnpi)
 
 # Home Screen
 
